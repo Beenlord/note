@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
+                "file": "Записки.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Записки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Записки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "Записки.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3d885bde5a4fedfe",
+  "active": "984d2bef29837850",
   "lastOpenFiles": [
+    "Записки.md",
+    "Установка php8 и его зависимостей.md",
     "README.md",
-    "Obsidian.md",
     "Без названия 1.canvas",
     "2024-09-21.md",
     "Без названия.canvas"
