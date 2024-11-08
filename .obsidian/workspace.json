@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42499b683784133e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вынос папки public из папки проекта laravel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Команды laravel.md",
+                "file": "Вынос папки public из папки проекта laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Команды laravel.md",
+                "file": "Вынос папки public из папки проекта laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Команды laravel.md"
+                "file": "Вынос папки public из папки проекта laravel.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "585095123cb08534",
+  "active": "42499b683784133e",
   "lastOpenFiles": [
-    "Публикация npm пакетов.md",
     "Команды laravel.md",
+    "Вынос папки public из папки проекта laravel.md",
+    "Публикация npm пакетов.md",
     "Untitled.canvas",
     "Записки.md",
     "Nuxt2 middlware redirect by cookies.md",
